@@ -21,6 +21,7 @@ body {
     align-items: center;
     justify-content: space-around;
     padding: 24px;
+    width:905px;
 }
 
 .logo {
